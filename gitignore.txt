@@ -1,0 +1,43 @@
+# ==========================================
+# Build Artifacts & Output Directories
+# ==========================================
+Debug/
+Release/
+build/
+bin/
+obj/
+
+*.elf
+*.bin
+*.hex
+*.map
+*.o
+*.obj
+*.su
+*.d
+
+# ==========================================
+# STM32CubeIDE & Eclipse Project Files
+# ==========================================
+.settings/
+.launch
+*.launch
+.metadata/
+.launches/
+.cproject.user
+
+*.log
+
+# ==========================================
+# OS & Tool Generated Files
+# ==========================================
+
+Thumbs.db
+ehthumbs.db
+Desktop.ini
+$RECYCLE.BIN/
+
+*.tmp
+*.bak
+*.swp
+*~
